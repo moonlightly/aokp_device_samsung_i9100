@@ -21,8 +21,6 @@
 
 TARGET_BOARD_INFO_FILE := device/samsung/i9100/board-info.txt
 
-TARGET_CPU_VARIANT := cortex-a9
-
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/i9100/bluetooth
 
